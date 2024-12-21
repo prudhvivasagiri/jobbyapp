@@ -1,0 +1,33 @@
+.filter-heading {
+  color: #f8fafc;
+}
+.line {
+  color: #f8fafc;
+  margin-inline-start: 0em;
+  margin-inline-end: 0em;
+}
+
+.filters {
+  /* align-self: flex-start; */
+  padding-inline-start: 0px;
+  margin-block-start: 0em;
+}
+
+.label {
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.filter-input {
+  width: 14px;
+  height: 14px;
+  cursor: pointer;
+}
+.filter-list-item {
+}
+.jobs-sidebar {
+  display: flex;
+  flex-direction: column;
+  min-width: 20vw;
+  padding: 10px;
+}
